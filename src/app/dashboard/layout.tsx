@@ -38,7 +38,7 @@ export default async function DashboardLayout({
             <aside className="hidden w-64 flex-col bg-white dark:bg-gray-800 border-r border-gray-200 dark:border-gray-700 md:flex">
                 <div className="flex h-16 items-center justify-center border-b border-gray-200 dark:border-gray-700 px-6">
                     <Link href="/dashboard" className="text-xl font-bold text-indigo-600 dark:text-indigo-400">
-                        PoliticMinute
+                        Minute Project
                     </Link>
                 </div>
                 <nav className="flex-1 overflow-y-auto px-4 py-6 space-y-2">
@@ -81,7 +81,7 @@ export default async function DashboardLayout({
                 {/* Mobile Header */}
                 <header className="flex h-16 items-center justify-between border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 px-4 md:hidden">
                     <Link href="/dashboard" className="text-lg font-bold text-indigo-600 dark:text-indigo-400">
-                        PoliticMinute
+                        Minute Project
                     </Link>
                     <button className="text-gray-500">
                         <Menu className="h-6 w-6" />

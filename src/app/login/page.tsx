@@ -6,7 +6,7 @@ export default function LoginPage() {
             <div className="w-full max-w-md space-y-8 px-4 sm:px-0">
                 <div className="text-center">
                     <h2 className="mt-6 text-3xl font-extrabold text-gray-900 dark:text-white">
-                        PoliticMinute
+                        Minute Project
                     </h2>
                     <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
                         Sign in to your account

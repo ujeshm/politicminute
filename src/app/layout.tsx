@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PoliticMinute",
+  title: "Minute Project",
   description: "Daily minuting platform.",
 };
 
